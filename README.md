@@ -1,4 +1,4 @@
-# 2 Native IOS APP
+# 2 Simple IOS APPs
 ## SnapGram 
 
 ## Hangman
